@@ -1,0 +1,69 @@
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemDatabase2.mdb
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.pdb
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.xml
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Inventory.resources
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.LogIn.resources
+c:\users\user\documents\visual studio 2012\Projects\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.SplashScreen1.resources
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemDatabase2.mdb
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.pdb
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.xml
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.LogIn.resources
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Inventory.resources
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Resources.resources
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.SplashScreen1.resources
+\\Mac\Home\Documents\SEMESTER 4\VISUAL PROGRAMMING\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemDatabase2.mdb
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.pdb
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.xml
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.LogIn.resources
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Inventory.resources
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Resources.resources
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.SplashScreen1.resources
+C:\Users\Izzud\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemDatabase2.mdb
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.pdb
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.xml
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.LogIn.resources
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Inventory.resources
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Resources.resources
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.SplashScreen1.resources
+C:\Users\Izzud\Desktop\YIN\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemDatabase2.mdb
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.pdb
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.xml
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.LogIn.resources
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Inventory.resources
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.Resources.resources
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.SplashScreen1.resources
+C:\Users\User\Desktop\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\BSE\Sem4\VP\project\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\bin\Debug\InventorySystemProject.exe.config
+C:\Users\User\Desktop\BSE\Sem4\VP\project\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.exe
+C:\Users\User\Desktop\BSE\Sem4\VP\project\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.xml
+C:\Users\User\Desktop\BSE\Sem4\VP\project\Inventory System Project (1)\InventorySystemProject\InventorySystemProject\obj\Debug\InventorySystemProject.pdb
